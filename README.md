@@ -31,7 +31,7 @@ These equations have no closed-form solution, so they're solved **numerically** 
 ## Installation
 
 ```bash
-git clone https://github.com/linkedaven/Numerical-Solution-to-Double-Pendulum-Problem.git
+git clone https://github.com/linkedaven/Double-Pendulum.git
 cd Numerical-Solution-to-Double-Pendulum-Problem
 pip install -r requirements.txt
 ```

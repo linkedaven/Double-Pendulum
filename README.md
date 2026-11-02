@@ -32,7 +32,7 @@ These equations have no closed-form solution, so they're solved **numerically** 
 
 ```bash
 git clone https://github.com/linkedaven/Double-Pendulum.git
-cd Numerical-Solution-to-Double-Pendulum-Problem
+cd Double-Pendulum
 pip install -r requirements.txt
 ```
 
